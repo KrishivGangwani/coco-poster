@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.price{
+    color: #ffffff;
+    font-size: 30px;
+}
+.coco{
+    height: 400;
+    width: 300; 
+    
+}
+
+<img class = coco src="coco.png" >
